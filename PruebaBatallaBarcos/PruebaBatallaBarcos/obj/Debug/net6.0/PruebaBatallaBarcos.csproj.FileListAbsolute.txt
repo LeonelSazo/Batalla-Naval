@@ -1,0 +1,15 @@
+C:\Users\Leonel\Desktop\Progra3\PruebaBatallaBarcos\PruebaBatallaBarcos\bin\Debug\net6.0\PruebaBatallaBarcos.exe
+C:\Users\Leonel\Desktop\Progra3\PruebaBatallaBarcos\PruebaBatallaBarcos\bin\Debug\net6.0\PruebaBatallaBarcos.deps.json
+C:\Users\Leonel\Desktop\Progra3\PruebaBatallaBarcos\PruebaBatallaBarcos\bin\Debug\net6.0\PruebaBatallaBarcos.runtimeconfig.json
+C:\Users\Leonel\Desktop\Progra3\PruebaBatallaBarcos\PruebaBatallaBarcos\bin\Debug\net6.0\PruebaBatallaBarcos.dll
+C:\Users\Leonel\Desktop\Progra3\PruebaBatallaBarcos\PruebaBatallaBarcos\bin\Debug\net6.0\PruebaBatallaBarcos.pdb
+C:\Users\Leonel\Desktop\Progra3\PruebaBatallaBarcos\PruebaBatallaBarcos\obj\Debug\net6.0\PruebaBatallaBarcos.csproj.AssemblyReference.cache
+C:\Users\Leonel\Desktop\Progra3\PruebaBatallaBarcos\PruebaBatallaBarcos\obj\Debug\net6.0\PruebaBatallaBarcos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel\Desktop\Progra3\PruebaBatallaBarcos\PruebaBatallaBarcos\obj\Debug\net6.0\PruebaBatallaBarcos.AssemblyInfoInputs.cache
+C:\Users\Leonel\Desktop\Progra3\PruebaBatallaBarcos\PruebaBatallaBarcos\obj\Debug\net6.0\PruebaBatallaBarcos.AssemblyInfo.cs
+C:\Users\Leonel\Desktop\Progra3\PruebaBatallaBarcos\PruebaBatallaBarcos\obj\Debug\net6.0\PruebaBatallaBarcos.csproj.CoreCompileInputs.cache
+C:\Users\Leonel\Desktop\Progra3\PruebaBatallaBarcos\PruebaBatallaBarcos\obj\Debug\net6.0\PruebaBatallaBarcos.dll
+C:\Users\Leonel\Desktop\Progra3\PruebaBatallaBarcos\PruebaBatallaBarcos\obj\Debug\net6.0\refint\PruebaBatallaBarcos.dll
+C:\Users\Leonel\Desktop\Progra3\PruebaBatallaBarcos\PruebaBatallaBarcos\obj\Debug\net6.0\PruebaBatallaBarcos.pdb
+C:\Users\Leonel\Desktop\Progra3\PruebaBatallaBarcos\PruebaBatallaBarcos\obj\Debug\net6.0\PruebaBatallaBarcos.genruntimeconfig.cache
+C:\Users\Leonel\Desktop\Progra3\PruebaBatallaBarcos\PruebaBatallaBarcos\obj\Debug\net6.0\ref\PruebaBatallaBarcos.dll
